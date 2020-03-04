@@ -1,2 +1,2 @@
-console.log('hello world!');
-console.log('hello from akhila');
+console.log('hello world from js!');
+console.log('new feature new things edited more');
